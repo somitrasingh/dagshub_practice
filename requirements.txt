@@ -1,0 +1,6 @@
+dvc
+dagshub
+scikit-learn
+mlflow==2.22.2
+dvc-s3
+ipykernel
